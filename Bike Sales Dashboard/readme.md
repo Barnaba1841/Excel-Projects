@@ -11,10 +11,10 @@ This project showcases an interactive Excel dashboard created from a dataset con
 
 ## Process
 
-The bike_buyers sheet have Raw Data
-Working Sheet have the data after cleaning
-Pivot table sheet have all the pivot tables
-Dashboard sheet have the Final Dashboard
+The bike_buyers sheet have Raw Data <br>
+Working Sheet have the data after cleaning <br>
+Pivot table sheet have all the pivot tables <br>
+Dashboard sheet have the Final Dashboard <br>
 
 The project involved several key steps to transform raw data into a polished dashboard:
 1. **Data Cleaning**: Started with cleaning the data to remove any inconsistencies or duplicates.
@@ -22,7 +22,7 @@ The project involved several key steps to transform raw data into a polished das
 3. **Pivot Table and Chart Creation**: Created PivotTables and charts to visualize the data effectively.
 4. **Dashboard Creation**: Combined all elements into a final dashboard that presents the data in an interactive and user-friendly manner.
 
-The final Dashboard looks like this
+The final Dashboard looks like this <br>
 [Final screen]()
 
 ## Acknowledgements
