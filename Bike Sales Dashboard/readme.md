@@ -23,7 +23,7 @@ The project involved several key steps to transform raw data into a polished das
 4. **Dashboard Creation**: Combined all elements into a final dashboard that presents the data in an interactive and user-friendly manner.
 
 The final Dashboard looks like this <br>
-[Final screen]()
+[Final screen](Bikesalesdashboard.png)
 
 ## Acknowledgements
 
@@ -33,9 +33,9 @@ A special thanks to Alex The Analyst for the educational content that guided thi
 
 Feel free to explore the dashboard and provide feedback. The project can be viewed here.
 
-[Dashboard]()
+[Dashboard](Excel_Project_on_Bike_Sales)
 
-## Contact
+
 
 Thank you for visiting my project!
 
