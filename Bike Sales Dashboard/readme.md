@@ -33,7 +33,7 @@ A special thanks to Alex The Analyst for the educational content that guided thi
 
 Feel free to explore the dashboard and provide feedback. The project can be viewed here.
 
-[Dashboard](Excel_Project_on_Bike_Sales)
+[Dashboard](Excel_Project_on_Bike_Sales.xlsx)
 
 
 
